@@ -20,12 +20,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aloktom80041624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aloktom80041624" height="30" width="40" /></a><br>
-<a href="https://linkedin.com/in/alok-tomar-76b243240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alok-tomar-76b243240" height="30" width="40" /></a><br>
-<a href="https://fb.com/alok tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alok tomar" height="30" width="40" /></a><br>
-<a href="https://instagram.com/tomar_adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomar_adi" height="30" width="40" /></a><br>
-<a href="https://codeforces.com/profile/alok_412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alok_412" height="30" width="40" /></a><br>
-<a href="https://www.leetcode.com/alok_412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alok_412" height="30" width="40" /></a><br>
+<a href="https://twitter.com/aloktom80041624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aloktom80041624" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alok-tomar-76b243240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alok-tomar-76b243240" height="30" width="40" /></a>
+<a href="https://fb.com/alok tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alok tomar" height="30" width="40" /></a>
+<a href="https://instagram.com/tomar_adi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomar_adi" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/alok_412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alok_412" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/alok_412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alok_412" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tomaralok2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tomaralok2000" height="30" width="40" /></a>
 </p>
 
