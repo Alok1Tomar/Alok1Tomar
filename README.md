@@ -4,9 +4,21 @@
   <img  src="https://github.com/arvindpndit/arvindpndit/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
-
 <br>
-<h3 align="center">≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋<br>A passionate Full Stack developer<br>≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋ ≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋</h3>
+<main style="color: #080808;font-size: 2.26rem;text-transform: uppercase;height: 20vh;display: flex;align-items: center;justify-content: center;">
+    <p>A Passinate</p>
+    <section style="height:50px;
+    overflow:hidden;
+    margin-left: 1rem;">
+      <div class="first" style="animation: text-animation 8s infinite;"><div style="padding: 0.25rem 0.75rem;height:2.81rem;margin-bottom: 2.51rem;
+  display:inline-block;background-color:#20a7d8;">Full Stack Developer</div></div>
+      <div class="second" ><div style="padding: 0.25rem 0.75rem;height:2.81rem;margin-bottom: 2.21rem;
+        display:inline-block;background-color:#336e33;">Web Developer</div></div>
+      <div class="third" ><div style="padding: 0.25rem 0.75rem;height:2.41rem;margin-bottom: 2.81rem;
+        display:inline-block;background-color:#bb1b98;">Systems Engineer</div></div>
+    </section>
+  </main>
+
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
